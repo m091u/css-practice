@@ -1,0 +1,22 @@
+#title {
+   color: blue; 
+   background-color: #D3D3D3;
+   border: 1px solid darkgray;
+}
+.paragraph{
+    color: rgb(0, 255, 0) ;
+    background-color: rgba(255,255,0, 0.5) ;
+}
+div p {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+* {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+span {
+    color: #800080;
+    font-style: italic;
+}
